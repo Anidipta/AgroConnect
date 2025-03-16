@@ -1,0 +1,7 @@
+streamlit
+os-sys
+pandas
+datetime
+razorpay
+db-sqlite3
+googletrans-py
