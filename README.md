@@ -63,8 +63,7 @@ agroconnect/
 ## 🔗 **Project Links**  
 
 - **Live Deployment:** [Here](https://agroconnect.streamlit.app/)
-- **Demo Video:** [Here]()
-
+  
 ---
 
 ## 🛠 **Tech Stack Used**  
