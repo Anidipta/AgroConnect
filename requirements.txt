@@ -5,3 +5,4 @@ datetime
 razorpay
 db-sqlite3
 googletrans-py
+geopy
