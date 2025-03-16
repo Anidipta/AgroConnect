@@ -62,9 +62,8 @@ agroconnect/
 
 ## 🔗 **Project Links**  
 
-- **GitHub Repository:** [Insert GitHub Repo Link]  
-- **Live Deployment:** [Insert Live Demo Link]  
-- **Demo Video:** [Insert Video Link]  
+- **Live Deployment:** [Here](https://agroconnect.streamlit.app/)
+- **Demo Video:** [Here]()
 
 ---
 
